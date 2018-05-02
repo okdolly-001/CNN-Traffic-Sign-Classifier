@@ -200,14 +200,16 @@ For the first image,the top five soft max probabilities were
 
 
 
+
 For the second image,the top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| 0.12253761         			| Road work    									| 
-| 0.10780171     				| Dangerous curve to the left										|
-| 0.09129338					| Traffic Signals										|
-| 0.08925914    			| Yield						 				|
-| 0.08430965				    | 	No passing     							|
+| 0.12253761         	| Road work    			          | 
+| 0.10780171     		| Dangerous curve to the left			|
+| 0.09129338			| Traffic Signals					|
+| 0.08925914    		| Yield						 	|
+| 0.08430965			| No passing     				     |
 
 
 
