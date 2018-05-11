@@ -6,8 +6,8 @@
 **Build a Traffic Sign Recognition Project**
 
 
-
-[![Binder](http://mybinder.org/badge.svg)](https://hub.mybinder.org/user/okdolly-cnn-tra-sign-classifier-imfo4i2w/notebooks/Traffic_Sign_Classifier.ipynb)
+##### Check out my interactive Jupyter notebook:
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/okdolly/CNN-Traffic-Sign-Classifier/master?filepath=Traffic_Sign_Classifier.ipynb)
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 
-#### Here is a link to my [project code](https://github.com/okdolly/CNN-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
+
 
 ### Data Set Summary & Exploration
 
