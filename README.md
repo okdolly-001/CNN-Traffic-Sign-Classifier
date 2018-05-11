@@ -3,8 +3,6 @@
 
 ---
 
-**Build a Traffic Sign Recognition Project**
-
 
 ##### Check out my interactive Jupyter notebook:
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/okdolly/CNN-Traffic-Sign-Classifier/master?filepath=Traffic_Sign_Classifier.ipynb)
